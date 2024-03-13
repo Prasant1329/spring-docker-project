@@ -43,6 +43,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-docker-jenkin</finalName>
 	</build>
 	<repositories>
 		<repository>
